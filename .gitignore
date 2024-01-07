@@ -1,0 +1,21 @@
+# Compiled class files
+/target/
+
+# SBT build directories
+/project/target/
+/project/project/
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Mac OSX files
+.DS_Store
+
+# Scala-IDE specific
+sbt.json
